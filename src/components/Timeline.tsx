@@ -17,19 +17,19 @@ const Timeline = () => {
                 <p className='md:[1rem] xl:text-[2rem]'>Speaker session 1</p>
             </div>
             <div className='text-white absolute md:top-[105vh] top-[66vh] xl:ml-[20rem] md:ml-[10rem] ml-[0.8rem] tracking-tighter'>
-                <h1 className='text-transparent bg-clip-text bg-gradient-to-l from-rose-400 via-fuchsia-500 to-indigo-500 text-[2rem] md:text-[2rem] xl:text-[4rem] font-bold text-right font-Goldman'>9:00 PM</h1>
+                <h1 className='text-transparent bg-clip-text bg-gradient-to-l from-rose-400 via-fuchsia-500 to-indigo-500 text-[2rem] md:text-[2rem] xl:text-[4rem] font-bold text-right font-Goldman'>8:30 PM</h1>
                 <p className='md:[1rem] xl:text-[2rem]'>Reporting of Participants</p>
             </div>
             <div className='text-white absolute right-0 top-[90vh] md:top-[140vh] xl:mr-[20rem] md:mr-[10rem] mr-[0.8rem] tracking-tighter'>
-                <h1 className='text-transparent bg-clip-text bg-gradient-to-l from-rose-400 via-fuchsia-500 to-indigo-500 text-[2rem] md:text-[2rem] xl:text-[4rem] font-bold font-Goldman'>3:00 AM</h1>
-                <p className='md:[1rem] xl:text-[2rem]'>Reporting of Participants</p>
+                <h1 className='text-transparent bg-clip-text bg-gradient-to-l from-rose-400 via-fuchsia-500 to-indigo-500 text-[2rem] md:text-[2rem] xl:text-[4rem] font-bold font-Goldman'>9:30 AM</h1>
+                <p className='md:[1rem] xl:text-[2rem]'>Startup Workshop</p>
             </div>
             <div className='text-white absolute md:top-[185vh] top-[120vh] xl:ml-[20rem] md:ml-[10rem] ml-[0.8rem] tracking-tighter'>
                 <h1 className='text-transparent bg-clip-text bg-gradient-to-l from-rose-400 via-fuchsia-500 to-indigo-500 text-[2rem] md:text-[2rem] xl:text-[4rem] font-bold text-right font-Goldman'>8:30 AM</h1>
                 <p className='md:[1rem] xl:text-[2rem]'>Review 1</p>
             </div>
             <div className='text-white absolute right-0 top-[144vh] md:top-[220vh] xl:mr-[20rem] md:mr-[10rem] mr-[0.8rem] tracking-tighter'>
-                <h1 className='text-transparent bg-clip-text bg-gradient-to-l from-rose-400 via-fuchsia-500 to-indigo-500 text-[2rem] md:text-[2rem] xl:text-[4rem] font-bold font-Goldman'>9:30 AM</h1>
+                <h1 className='text-transparent bg-clip-text bg-gradient-to-l from-rose-400 via-fuchsia-500 to-indigo-500 text-[2rem] md:text-[2rem] xl:text-[4rem] font-bold font-Goldman'>10:30 AM</h1>
                 <p className='md:[1rem] xl:text-[2rem]'>Speaker session 2</p>
             </div>
             <div className='text-white absolute md:top-[255vh] top-[167vh] xl:ml-[20rem] md:ml-[10rem] ml-[0.8rem] tracking-tighter'>
