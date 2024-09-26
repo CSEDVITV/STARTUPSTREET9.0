@@ -9,7 +9,7 @@ const Faq3 = () => {
     <div className="flex flex-row md:flex-col mr-4 text-white items-center justify-between text-center my-8 ">
       <div className="px-6">
         <h1 className="text-4xl md:text-8xl text-primary font-extrabold items-center justify-between">
-          27+
+          28-29th
         </h1>
         <p className="text-sm md:text-xl mb-8 items-center justify-between">
           SEPTEMBER
